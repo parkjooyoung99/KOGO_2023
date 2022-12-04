@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :open_book: Documentation: 
+### :open_book: Documentation(.RMD) for this section should be downloaded
 
 ### :open_book: The original tutorial can be found below
 https://lmweber.org/OSTA-book/human-dlpfc-workflow.html
