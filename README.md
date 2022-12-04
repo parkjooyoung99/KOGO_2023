@@ -15,7 +15,7 @@
 
 
 ### :open_book: Documentation(.RMD) for this section can be downloaded
-여기에 rmd file 링크 다려고
+https://github.com/parkjooyoung99/KOGO_2023/blob/main/KOGO_2023_spatial_tramscriptomics_documentation.pptx
 
 ### :open_book: The original tutorial can be found below
 https://lmweber.org/OSTA-book/human-dlpfc-workflow.html
