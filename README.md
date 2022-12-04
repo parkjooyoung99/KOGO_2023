@@ -8,6 +8,6 @@
 </h1>
 
 <hl>
-  ### :open_book: We will be following tutorial here
-  <img src="https://media.giphy.com/media/rlg5rDvQp2Mvqp5wqq/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/Tj4fL2QuhEYSJBdrKt/giphy.gif" width="30px"/>
+  We will be following tutorial here
 </hl>
