@@ -8,8 +8,8 @@
 </h1>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
- </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="100" height="100"/>&nbsp;
+</div>
 
 ### :open_book: Documentation(.RMD) for this section should be downloaded
 여기에 rmd file 링크 다려고
