@@ -9,7 +9,8 @@
 
 ###### :exclamation: We believe that proper R environment is prepared on your laptop 
 
-### :open_book: Documentation(.RMD) for this section should be downloaded
+### :open_book: Documentation(.RMD) for this section can be downloaded
 여기에 rmd file 링크 다려고
+
 ### :open_book: The original tutorial can be found below
 https://lmweber.org/OSTA-book/human-dlpfc-workflow.html
