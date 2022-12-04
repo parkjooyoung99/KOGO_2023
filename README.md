@@ -8,6 +8,6 @@
 </h1>
 
 <hl>
-  <img src="https://media.giphy.com/media/Tj4fL2QuhEYSJBdrKt/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/Tj4fL2QuhEYSJBdrKt/giphy.gif" width="60px" >
   We will be following tutorial here
 </hl>
