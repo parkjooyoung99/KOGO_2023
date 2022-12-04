@@ -8,8 +8,8 @@
 </h1>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="100" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="50" height="50"/>&nbsp;
 </div>
 
 ### :open_book: Documentation(.RMD) for this section should be downloaded
