@@ -15,10 +15,12 @@
 
 
 ### :open_book: Documentation for this section can be downloaded/viewed as
-* pptx  
-  https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.pptx
 * html  
   https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.html
+  
+* pptx  
+  https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.pptx
+
   
 ### :open_book: Reference  
   https://lmweber.org/OSTA-book/human-dlpfc-workflow.html
