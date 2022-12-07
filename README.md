@@ -16,7 +16,7 @@
 
 ### :open_book: Documentation for this section can be downloaded as
 * pptx  
-  https://github.com/parkjooyoung99/KOGO_2023/blob/main/KOGO_2023_spatial_tramscriptomics_documentation.pptx
+  https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.pptx
 * rmd  
   https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.html
   
