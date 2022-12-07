@@ -14,10 +14,10 @@
 
 
 
-### :open_book: Documentation for this section can be downloaded as
+### :open_book: Documentation for this section can be downloaded/viewed as
 * pptx  
   https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.pptx
-* rmd  
+* html  
   https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.html
   
 ### :open_book: Reference  
