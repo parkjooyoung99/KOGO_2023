@@ -14,7 +14,7 @@
 
 
 
-### :open_book: Documentation for this section can be downloaded/viewed as
+### :open_book: Documentation for this section can be viewed/downloaded as
 * html  
   https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.html
   
