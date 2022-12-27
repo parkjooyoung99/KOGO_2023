@@ -8,17 +8,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
- ###### :exclamation: We believe that proper R environment and Rstudio are prepared on your laptop 
 
-
-
-### :bangbang: Prerequisites
+## :bangbang: Prerequisites
 * Object for SPATA2  
   https://drive.google.com/file/d/14Apd5ufc1yRJ0xsQzbHulmAUgOesvNao/view?usp=sharing
   
 * Download packages - codes in ppt pg.20
 
-####### 
+
 
 ### :open_book: Documentation for this section can be viewed/downloaded as
 * html  
