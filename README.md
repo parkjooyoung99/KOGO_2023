@@ -12,6 +12,7 @@
 ### :bangbang: Prerequisites :bangbang:
 * Object for SPATA2  
   https://drive.google.com/file/d/14Apd5ufc1yRJ0xsQzbHulmAUgOesvNao/view?usp=sharing
+  
 * Download packages - codes in ppt pg.20
 
 <h1>
@@ -27,6 +28,6 @@
   https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.pptx
 
   
-### :open_book: Reference  
+### :open_book: Reference   
   https://lmweber.org/OSTA-book/human-dlpfc-workflow.html
 
