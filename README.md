@@ -11,7 +11,7 @@
 
 ### :bangbang: Prerequisites 
 * Download R object for SPATA2  
-  https://drive.google.com/file/d/14Apd5ufc1yRJ0xsQzbHulmAUgOesvNao/view?usp=sharing
+  https://drive.google.com/file/d/1PI4mSR7IvktTc_DfNh3Tu2tzIicB6nWR/view?usp=sharing
   
 * Download packages - Refer to ppt page 20
 
