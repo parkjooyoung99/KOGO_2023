@@ -13,7 +13,7 @@
 * Download R object for SPATA2  
   https://drive.google.com/file/d/14Apd5ufc1yRJ0xsQzbHulmAUgOesvNao/view?usp=sharing
   
-* Download packages - codes in ppt pg.20
+* Download packages - Refer to ppt page 20
 
 <h1>
   
