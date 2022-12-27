@@ -16,8 +16,7 @@
 * Object for SPATA2  
   https://drive.google.com/file/d/14Apd5ufc1yRJ0xsQzbHulmAUgOesvNao/view?usp=sharing
   
-* Download packages ####### (codes: ppt page 20)
-  
+* Download packages 
 
 
 ### :open_book: Documentation for this section can be viewed/downloaded as
