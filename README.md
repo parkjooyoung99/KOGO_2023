@@ -24,7 +24,7 @@
 * html  
   https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.html
   
-* pptx  
+* ppt
   https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.pptx
 
 <h1>
