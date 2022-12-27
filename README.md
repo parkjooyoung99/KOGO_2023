@@ -9,7 +9,7 @@
 </h1>
 
 
-### :bangbang: Prerequisites :bangbang:
+### :bangbang: Prerequisites 
 * Download R object for SPATA2  
   https://drive.google.com/file/d/14Apd5ufc1yRJ0xsQzbHulmAUgOesvNao/view?usp=sharing
   
