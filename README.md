@@ -32,7 +32,6 @@
 </h1>
   
 ### :green_book: Reference   
-  https://lmweber.org/OSTA-book/human-dlpfc-workflow.html
-  
-  https://themilolab.github.io/SPATA2/articles/spata-v2-trajectory-analysis.html
+ *  https://lmweber.org/OSTA-book/human-dlpfc-workflow.html
+ *  https://themilolab.github.io/SPATA2/articles/spata-v2-trajectory-analysis.html
 
