@@ -20,7 +20,7 @@
 </h1>
 
 
-### :open_book: Documentation for this section can be viewed/downloaded as
+### :orange_book: Documentation for this section can be viewed/downloaded as
 * html  
   https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_tramscriptomics_documentation.html
   
@@ -31,7 +31,7 @@
   
 </h1>
   
-### :open_book: Reference   
+### :green_book: Reference   
   https://lmweber.org/OSTA-book/human-dlpfc-workflow.html
   
   https://themilolab.github.io/SPATA2/articles/spata-v2-trajectory-analysis.html
