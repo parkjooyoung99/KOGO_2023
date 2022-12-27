@@ -9,10 +9,9 @@
 </h1>
 
 
-## :bangbang: Prerequisites
+### :bangbang: Prerequisites
 * Object for SPATA2  
   https://drive.google.com/file/d/14Apd5ufc1yRJ0xsQzbHulmAUgOesvNao/view?usp=sharing
-  
 * Download packages - codes in ppt pg.20
 
 
