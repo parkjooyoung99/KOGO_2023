@@ -13,8 +13,10 @@
 
 
 ### :bangbang: Prerequisites
-* Download object  
+* Object for SPATA2 
   https://drive.google.com/file/d/14Apd5ufc1yRJ0xsQzbHulmAUgOesvNao/view?usp=sharing
+
+* Please install the packages before the session (codes are on ppt page 20)
 
 
 ### :open_book: Documentation for this section can be viewed/downloaded as
