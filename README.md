@@ -11,7 +11,9 @@
 
 ### :bangbang: Prerequisites 
 * Download R object for SPATA2  
-  https://drive.google.com/file/d/1PI4mSR7IvktTc_DfNh3Tu2tzIicB6nWR/view?usp=sharing
+  https://parkjooyoung99.github.io/KOGO_2023/data/KOGO_2023_spatial_transcriptomics_melanoma_enhanced_object.rds
+  https://parkjooyoung99.github.io/KOGO_2023/data/KOGO_2023_spatial_transcriptomics_cortex_object.rds
+  https://parkjooyoung99.github.io/KOGO_2023/data/scalefactors_json.json
   
 * Download packages - Refer to ppt page 21
 
