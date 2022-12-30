@@ -10,12 +10,14 @@
 
 
 ### :bangbang: Prerequisites 
-* Download R object for SPATA2  
+
+* Download packages - Refer to ppt page 21, 44
+
+* Download R object for the session (Not mandatory)  
   https://parkjooyoung99.github.io/KOGO_2023/data/KOGO_2023_spatial_transcriptomics_melanoma_enhanced_object.rds
   https://parkjooyoung99.github.io/KOGO_2023/data/KOGO_2023_spatial_transcriptomics_cortex_object.rds
   https://parkjooyoung99.github.io/KOGO_2023/data/scalefactors_json.json
   
-* Download packages - Refer to ppt page 21
 
 <h1>
   
@@ -34,7 +36,7 @@
 </h1>
   
 ### :green_book: Reference   
- *  https://lmweber.org/OSTA-book/human-dlpfc-workflow.html
+ *  https://edward130603.github.io/BayesSpace/articles/thrane_melanoma.html
  
- *  https://themilolab.github.io/SPATA2/articles/spata-v2-trajectory-analysis.html
+ *  https://htmlpreview.github.io/?https://github.com/sqjin/CellChat/blob/master/tutorial/CellChat_analysis_of_spatial_imaging_data.html
 
