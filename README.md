@@ -36,7 +36,9 @@
 </h1>
   
 ### :green_book: Reference   
- *  https://edward130603.github.io/BayesSpace/articles/thrane_melanoma.html
+ * Bayesspace  
+  https://edward130603.github.io/BayesSpace/articles/thrane_melanoma.html
  
- *  https://htmlpreview.github.io/?https://github.com/sqjin/CellChat/blob/master/tutorial/CellChat_analysis_of_spatial_imaging_data.html
+ * CellChat  
+  https://htmlpreview.github.io/?https://github.com/sqjin/CellChat/blob/master/tutorial/CellChat_analysis_of_spatial_imaging_data.html
 
