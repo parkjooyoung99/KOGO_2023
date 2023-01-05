@@ -26,11 +26,8 @@
 
 ### :orange_book: Documentation for this section can be viewed/downloaded as
 * html  
-  https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_transcriptomics_documentation.html
-  
 * ppt  
-  https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatial_transcriptomics_documentation.pptx
-
+  
 <h1>
   
 </h1>
