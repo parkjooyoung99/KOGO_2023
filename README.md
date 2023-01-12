@@ -19,6 +19,7 @@ install.packages("Seurat")
 install.packages("ggplot2")
 install.packages("dplyr")
 install.packages("patchwork")
+install.packages("cowplot")
 devtools::install_github("sqjin/CellChat")
 ```
 
