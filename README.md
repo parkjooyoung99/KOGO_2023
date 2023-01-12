@@ -44,6 +44,6 @@ devtools::install_github("sqjin/CellChat")
   https://edward130603.github.io/BayesSpace/articles/thrane_melanoma.html
  
  * CellChat  
-  https://pubmed.ncbi.nlm.nih.gov/33597522/
+  https://pubmed.ncbi.nlm.nih.gov/33597522/  
   https://htmlpreview.github.io/?https://github.com/sqjin/CellChat/blob/master/tutorial/CellChat_analysis_of_spatial_imaging_data.html
 
