@@ -11,13 +11,16 @@
 
 ### :bangbang: Prerequisites 
 
-* Download packages - Refer to ppt page 21, 44
-
-* Download R object for the session (Not mandatory)  
-  https://parkjooyoung99.github.io/KOGO_2023/data/KOGO_2023_spatial_transcriptomics_melanoma_enhanced_object.rds
-  https://parkjooyoung99.github.io/KOGO_2023/data/KOGO_2023_spatial_transcriptomics_cortex_object.rds
-  https://parkjooyoung99.github.io/KOGO_2023/data/scalefactors_json.json
-  
+* Download packages
+```
+bio_pkgs = c("BayesSpace","SingleCellExperiment","scran","scater","BiocNeighbors")
+BiocManager::install(bio_pkgs, update = T, force =TRUE)
+install.packages("Seurat")
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("patchwork")
+devtools::install_github("sqjin/CellChat")
+```
 
 <h1>
   
