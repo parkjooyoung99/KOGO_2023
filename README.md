@@ -40,7 +40,7 @@ devtools::install_github("sqjin/CellChat")
   
 ### :green_book: Reference   
  * Bayesspace  
-  https://edward130603.github.io/BayesSpace/articles/thrane_melanoma.html
+  https://edward130603.github.io/BayesSpace/articles/thrane_melanoma.html  
   https://pubmed.ncbi.nlm.nih.gov/34083791/
  
  * CellChat  
