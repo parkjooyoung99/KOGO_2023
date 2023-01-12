@@ -19,6 +19,9 @@ install.packages("Seurat")
 install.packages("ggplot2")
 install.packages("dplyr")
 install.packages("patchwork")
+
+# If you have R 4.2.x follow the under
+BiocManager::install("ComplexHeatmap")
 devtools::install_github("sqjin/CellChat")
 ```
 
