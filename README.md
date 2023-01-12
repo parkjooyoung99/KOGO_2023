@@ -20,6 +20,8 @@ install.packages("ggplot2")
 install.packages("dplyr")
 install.packages("patchwork")
 
+devtools::install_github("sqjin/CellChat")
+
 # If you have R 4.2.x follow the under
 BiocManager::install("ComplexHeatmap")
 devtools::install_github("sqjin/CellChat")
