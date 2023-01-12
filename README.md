@@ -9,7 +9,7 @@
 </h1>
 
 
-### :bangbang: Prerequisite
+### :bangbang: Prerequisites
 
 * Download packages
 ```
