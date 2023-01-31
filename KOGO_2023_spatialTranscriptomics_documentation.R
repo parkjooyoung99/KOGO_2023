@@ -276,7 +276,8 @@ levels(cellchat@idents)
 CellChat::netVisual_bubble(cellchat, sources.use =  c(3), targets.use =c(4),remove.isolate = FALSE, angle.x = 90,thresh = 0.05) + coord_flip()
 
 # If you are encountering NA in row, modified function below might work #
-
+install.packages('RColorBrewer')
+library(RColorBrewer)
 netVisual_bubble_windows <- function(object, sources.use = NULL, targets.use = NULL, signaling = NULL, pairLR.use = NULL, color.heatmap = c("Spectral","viridis"), n.colors = 10, direction = -1, thresh = 0.05,
                                     comparison = NULL, group = NULL, remove.isolate = FALSE, max.dataset = NULL, min.dataset = NULL,
                                     min.quantile = 0, max.quantile = 1, line.on = TRUE, line.size = 0.2, color.text.use = F, color.text = NULL,
