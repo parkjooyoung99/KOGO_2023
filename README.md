@@ -32,7 +32,7 @@ devtools::install_github("sqjin/CellChat")
 * html  
   https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatialTranscriptomics_documentation.html
 * ppt  
-  lecture: https://parkjooyoung99.github.io/KOGO_2023/20230131_kogo_srt_jchoi.pdf
+  lecture: https://parkjooyoung99.github.io/KOGO_2023/20230131_kogo_srt_jchoi.pdf  
   hand-on practice: https://parkjooyoung99.github.io/KOGO_2023/KOGO_2023_spatialTranscriptomics_documentation.pptx
   
 * Rscript  
